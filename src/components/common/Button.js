@@ -14,8 +14,8 @@ const styles = {
         alignSelf: 'stretch',
 backgroundColor: '#cffcff',
 borderRadius: 5,
-// borderColor: '#007aff',
-// borderWidth: 1,
+borderColor: '#007aff',
+borderWidth: 1,
 shadowColor: '#000',
 
       shadowOffset: { width: 4, height: 4 },
